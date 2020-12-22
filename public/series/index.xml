@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Categories on Jingwei&#39;s</title>
-		<link>http://leijingwei.com/categories/</link>
-		<description>Recent content in Categories on leijingwei.com</description>
+		<title>Series on Jingwei&#39;s</title>
+		<link>http://leijingwei.com/series/</link>
+		<description>Recent content in Series on leijingwei.com</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
 		
-		<atom:link href="http://leijingwei.com/categories/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://leijingwei.com/series/index.xml" rel="self" type="application/rss+xml" />
 		
 		
 	</channel>
