@@ -6,10 +6,23 @@
 		<description>Recent content on leijingwei.com</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<copyright>© Copyright Jingwei&amp;rsquo;s | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Tue, 22 Dec 2020 19:38:17 +0800</lastBuildDate>
 		
 		<atom:link href="http://leijingwei.com/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>My First Post</title>
+			<link>http://leijingwei.com/posts/my-first-post/</link>
+			<pubDate>Tue, 22 Dec 2020 19:38:17 +0800</pubDate>
+			
+			<guid>http://leijingwei.com/posts/my-first-post/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
 		
 	</channel>
 </rss>

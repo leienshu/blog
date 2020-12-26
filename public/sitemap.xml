@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://leijingwei.com/categories/</loc>
+    <loc>http://leijingwei.com/</loc>
+    <lastmod>2020-12-22T19:38:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://leijingwei.com/</loc>
+    <loc>http://leijingwei.com/posts/my-first-post/</loc>
+    <lastmod>2020-12-22T19:38:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/posts/</loc>
+    <lastmod>2020-12-22T19:38:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/categories/</loc>
   </url>
   
   <url>
