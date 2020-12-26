@@ -8,12 +8,22 @@
   </url>
   
   <url>
+    <loc>http://leijingwei.com/tags/blog/</loc>
+    <lastmod>2020-12-26T00:02:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://leijingwei.com/</loc>
     <lastmod>2020-12-26T00:02:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://leijingwei.com/posts/</loc>
+    <lastmod>2020-12-26T00:02:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/tags/</loc>
     <lastmod>2020-12-26T00:02:47+08:00</lastmod>
   </url>
   
@@ -39,11 +49,6 @@
   
   <url>
     <loc>http://leijingwei.com/posts/post-8/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://leijingwei.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
