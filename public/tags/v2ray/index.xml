@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>v2ray on Jingwei&#39;s</title>
+    <link>http://leijingwei.com/tags/v2ray/</link>
+    <description>Recent content in v2ray on Jingwei&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright [Jingwei&#39;s](https://leijingwei.com)</copyright>
+    <lastBuildDate>Sat, 26 Dec 2020 13:46:59 +0800</lastBuildDate><atom:link href="http://leijingwei.com/tags/v2ray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install V2ray</title>
+      <link>http://leijingwei.com/posts/install-v2ray/</link>
+      <pubDate>Sat, 26 Dec 2020 13:46:59 +0800</pubDate>
+      
+      <guid>http://leijingwei.com/posts/install-v2ray/</guid>
+      <description>I can not write this in Chinese , but I really want to write it down .
+first please get an ECS or VPS which can visit the world outside of the wall.
+ CentOS 7.x + Debian Ubuntu 18.x +  i choose Cent OS 8.3, so the following content is based on Cent OS 8.
+second download the installation script by this command.
+curl -O https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh then you will get a file which named &amp;lsquo;install-release.</description>
+    </item>
+    
+  </channel>
+</rss>

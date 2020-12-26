@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright [Jingwei&#39;s](https://leijingwei.com)</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 00:03:47 +0800</lastBuildDate><atom:link href="http://leijingwei.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 13:46:59 +0800</lastBuildDate><atom:link href="http://leijingwei.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install V2ray</title>
+      <link>http://leijingwei.com/posts/install-v2ray/</link>
+      <pubDate>Sat, 26 Dec 2020 13:46:59 +0800</pubDate>
+      
+      <guid>http://leijingwei.com/posts/install-v2ray/</guid>
+      <description>I can not write this in Chinese , but I really want to write it down .
+first please get an ECS or VPS which can visit the world outside of the wall.
+ CentOS 7.x + Debian Ubuntu 18.x +  i choose Cent OS 8.3, so the following content is based on Cent OS 8.
+second download the installation script by this command.
+curl -O https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh then you will get a file which named &amp;lsquo;install-release.</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>http://leijingwei.com/about/</link>
@@ -20,7 +33,7 @@
 通信voip老兵，手里有95资质，靠这个赚了第一桶金。
 码农，学艺不精的那种，只靠这门收益吃过点闲散饭。
 啥想法 以后炒股养家，等孩子上幼儿园后，发现机会再去创业折腾，折腾的钱从股市盈余里出，折腾回来的钱又投入股市。
-我的联系方式  雪球：https://xueqiu.com/u/realinvestor 微信：juejindys 公众号咱也有，自己搜索“掘金大元帅”  </description>
+我的联系方式  雪球：https://xueqiu.com/u/realinvestor 微信：juejindys 公众号咱也有，自己搜索“掘金大元帅” github：右上角有地址  </description>
     </item>
     
     <item>

@@ -28,4 +28,5 @@ type: "page"
 - 雪球：[https://xueqiu.com/u/realinvestor](https://xueqiu.com/u/realinvestor)
 - 微信：juejindys
 - 公众号咱也有，自己搜索“掘金大元帅”
+- github：右上角有地址
 
