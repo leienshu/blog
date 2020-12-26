@@ -7,7 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright [Jingwei&#39;s](https://leijingwei.com)</copyright>
-    <lastBuildDate>Sat, 26 Dec 2020 13:46:59 +0800</lastBuildDate><atom:link href="http://leijingwei.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 14:15:11 +0800</lastBuildDate><atom:link href="http://leijingwei.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 量化选股系统环境搭建</title>
+      <link>http://leijingwei.com/posts/01-quant-learning/</link>
+      <pubDate>Sat, 26 Dec 2020 14:15:11 +0800</pubDate>
+      
+      <guid>http://leijingwei.com/posts/01-quant-learning/</guid>
+      <description>准备搭建一套系统，让大家可以根据北向资金、欧奈尔的RPS还有一些其他的策略很方便的选出股票来。为啥搞这个呢，实在是通达信这个软件太慢了，不如自己用pyton和tushare搞一下，具体有哪些条件以后再列，先卖出第一步，配置系统的开发环境。
+安装anaconda 安装好后我创建了一个stock的环境，我这里统一把股票都放到这个环境里，不会命令的就用图形界面也行。
+切换环境用下面这个命令。
+source active stock 安装tushare tushare是个什么东西我就不多说了。 安装代码：
+pip install tushare 安装好后验证下：
+python import tushare print(tushare.__version__) 正常情况有输出的，如果出错了就去看下出了什么问题，我这里忘了安装pandas，所以用下面的命令再安装下pandas。
+pip install pandas 再只想上面的命令验证tushare是否安装成功，我得到的版本信息如下：
+ 1.2.62
+ 这就代表环境安装好了。</description>
+    </item>
+    
     <item>
       <title>Install V2ray</title>
       <link>http://leijingwei.com/posts/install-v2ray/</link>
