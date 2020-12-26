@@ -23,5 +23,9 @@ type: "page"
 以后炒股养家，等孩子上幼儿园后，发现机会再去创业折腾，折腾的钱从股市盈余里出，折腾回来的钱又投入股市。
 
 
-## 没了！
+## 我的联系方式
+
+- 雪球：[https://xueqiu.com/u/realinvestor](https://xueqiu.com/u/realinvestor)
+- 微信：juejindys
+- 公众号咱也有，自己搜索“掘金大元帅”
 
