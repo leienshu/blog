@@ -50,15 +50,18 @@ name = "Tags"
 url = "/tags"
 weight = 4
 
+
 [[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/leienshu/blog"
 
+
 [[params.social]]
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
+
 
 [taxonomies]
    tag = "tags"
