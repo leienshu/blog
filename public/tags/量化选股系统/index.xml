@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>量化选股系统 on Jingwei&#39;s</title>
+    <link>http://leijingwei.com/tags/%E9%87%8F%E5%8C%96%E9%80%89%E8%82%A1%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 量化选股系统 on Jingwei&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright [Jingwei&#39;s](https://leijingwei.com)</copyright>
+    <lastBuildDate>Sat, 26 Dec 2020 14:15:11 +0800</lastBuildDate><atom:link href="http://leijingwei.com/tags/%E9%87%8F%E5%8C%96%E9%80%89%E8%82%A1%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01-量化选股系统环境搭建</title>
+      <link>http://leijingwei.com/posts/01-quant-learning/</link>
+      <pubDate>Sat, 26 Dec 2020 14:15:11 +0800</pubDate>
+      
+      <guid>http://leijingwei.com/posts/01-quant-learning/</guid>
+      <description>准备搭建一套系统，让大家可以根据北向资金、欧奈尔的RPS还有一些其他的策略很方便的选出股票来。为啥搞这个呢，实在是通达信这个软件太慢了，不如自己用pyton和tushare搞一下，具体有哪些条件以后再列，先卖出第一步，配置系统的开发环境。
+安装anaconda 安装好后我创建了一个stock的环境，我这里统一把股票都放到这个环境里，不会命令的就用图形界面也行。
+切换环境用下面这个命令。
+source active stock 安装tushare tushare是个什么东西我就不多说了。 安装代码：
+pip install tushare 安装好后验证下：
+python import tushare print(tushare.__version__) 正常情况有输出的，如果出错了就去看下出了什么问题，我这里忘了安装pandas，所以用下面的命令再安装下pandas。
+pip install pandas 再只想上面的命令验证tushare是否安装成功，我得到的版本信息如下：
+ 1.2.62
+ 安装django 我决定还是用django来把这个网站写出来，所以先装个django的框架吧
+pip install Django 安装好后验证下：
+&amp;gt;&amp;gt;&amp;gt; import django &amp;gt;&amp;gt;&amp;gt; print(django.get_version())  3.1.4
+ 基本上就这样了，剩下就是网站前台后台还有数据库什么的建设了，这个以后继续。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,24 +2,24 @@
 <html>
 <head>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>01 量化选股系统环境搭建 - Jingwei&#39;s</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta itemprop="name" content="01 量化选股系统环境搭建">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>01-量化选股系统环境搭建 - Jingwei&#39;s</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="01-量化选股系统环境搭建">
 <meta itemprop="description" content="一直想搞一个量化选股的程序，通达信太慢了，而且不适合程序员，所以我慢慢花时间搞一个友好的网站来实现">
 <meta itemprop="datePublished" content="2020-12-26T14:15:11+08:00" />
 <meta itemprop="dateModified" content="2020-12-26T14:15:11+08:00" />
-<meta itemprop="wordCount" content="25">
+<meta itemprop="wordCount" content="37">
 
 
 
-<meta itemprop="keywords" content="" />
-<meta property="og:title" content="01 量化选股系统环境搭建" />
+<meta itemprop="keywords" content="量化选股系统," />
+<meta property="og:title" content="01-量化选股系统环境搭建" />
 <meta property="og:description" content="一直想搞一个量化选股的程序，通达信太慢了，而且不适合程序员，所以我慢慢花时间搞一个友好的网站来实现" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://leijingwei.com/posts/01-quant-learning/" />
 <meta property="article:published_time" content="2020-12-26T14:15:11+08:00" />
 <meta property="article:modified_time" content="2020-12-26T14:15:11+08:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="01 量化选股系统环境搭建"/>
+<meta name="twitter:title" content="01-量化选股系统环境搭建"/>
 <meta name="twitter:description" content="一直想搞一个量化选股的程序，通达信太慢了，而且不适合程序员，所以我慢慢花时间搞一个友好的网站来实现"/>
 <link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" media="screen" href="http://leijingwei.com/css/normalize.css" />
@@ -81,7 +81,7 @@
 					</div>
 				
 				<div class="matter">
-					<h1 class="title">01 量化选股系统环境搭建</h1>
+					<h1 class="title">01-量化选股系统环境搭建</h1>
 				</div>
 			</div>
 					
@@ -105,12 +105,27 @@ print(tushare.__version__)
 <blockquote>
 <p>1.2.62</p>
 </blockquote>
-<p>这就代表环境安装好了。</p>
+<h2 id="安装django">安装django</h2>
+<p>我决定还是用django来把这个网站写出来，所以先装个django的框架吧</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">pip install Django
+</code></pre></div><p>安装好后验证下：</p>
+<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">&gt;&gt;&gt; import django
+&gt;&gt;&gt; print(django.get_version())
+</code></pre></div><blockquote>
+<p>3.1.4</p>
+</blockquote>
+<p>基本上就这样了，剩下就是网站前台后台还有数据库什么的建设了，这个以后继续。</p>
 
 			</div>
 
 			<div class="tags">
 				
+					
+						<ul class="flat">
+							
+							<li><a href="/tags/%E9%87%8F%E5%8C%96%E9%80%89%E8%82%A1%E7%B3%BB%E7%BB%9F">量化选股系统</a></li>
+							
+						</ul>
 					
 				
 			</div></div>

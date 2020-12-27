@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://leijingwei.com/</loc>
+    <lastmod>2020-12-27T11:00:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/posts/</loc>
+    <lastmod>2020-12-27T11:00:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/tags/</loc>
+    <lastmod>2020-12-27T11:00:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/tags/%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2020-12-27T11:00:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://leijingwei.com/posts/invest-think-framwork/</loc>
+    <lastmod>2020-12-27T11:00:38+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://leijingwei.com/posts/01-quant-learning/</loc>
     <lastmod>2020-12-26T14:15:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://leijingwei.com/</loc>
-    <lastmod>2020-12-26T14:15:11+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://leijingwei.com/posts/</loc>
+    <loc>http://leijingwei.com/tags/%E9%87%8F%E5%8C%96%E9%80%89%E8%82%A1%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2020-12-26T14:15:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://leijingwei.com/posts/install-v2ray/</loc>
-    <lastmod>2020-12-26T13:46:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://leijingwei.com/tags/</loc>
     <lastmod>2020-12-26T13:46:59+08:00</lastmod>
   </url>
   
